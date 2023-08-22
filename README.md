@@ -12,13 +12,15 @@ Learning to use git and markdown
 ## Useful links
 
 - Markdown cheat sheet: https://www.markdownguide.org/cheat-sheet/ 
-- Markdown and Latex : https:
+- Markdown and Latex : https://ashki23.github.io/markdown-latex.html 
 
 ## Unix commands
 -**ls**: list the contents of a directory
 -**cd**: change to another directory
 -**pwr**: print the working directory, show where i am at the moment
 -**mkdir**: create a new directory
+![Unix command sheetcheat](linux_commands.png)
+
 
 ## Git commands
 -**git clone**: download a repository to the local machine 
